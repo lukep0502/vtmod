@@ -1,0 +1,17 @@
+{
+    "item.vtmod.keydungeon": "key dungeon",
+    "item.vtmod.keydungeon_level_two": "key dungeon level 2",
+
+    "block.vtmod.dungeon_one_door": "Door dungeon 1",
+
+    "item.vtmod.plastic": "Plastic",
+    "item.vtmod.plastic_sword": "Plastic Sword",
+
+    "item.vtmod.essence_of_life": "Essence of life",
+    "block.vtmod.essence_of_life_block": "Essence of life block",
+
+    "entity.minecraft.villager.vtmod.trader_life": "Death",
+
+
+    "creativetab.vtmod.vtmod": "Vt Mod"
+}

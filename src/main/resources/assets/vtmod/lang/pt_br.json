@@ -1,0 +1,16 @@
+{
+    "item.vtmod.keydungeon": "Chave da masmorra",
+    "item.vtmod.keydungeon_level_two": "Chave da masmorra nivel 2",
+    
+    "block.vtmod.dungeon_one_door": "Porta da masmorra 1",
+
+    "item.vtmod.plastic": "Plastico",
+    "item.vtmod.plastic_sword": "Espada de Plastico",
+
+    "item.vtmod.essence_of_life": "Essencia da vida",
+    "block.vtmod.essence_of_life_block": "Bloco de Essencia da vida",
+
+    "entity.minecraft.villager.vtmod.trader_life": "Morte",
+
+    "creativetab.vtmod.vtmod": "Vt Mod"
+}
