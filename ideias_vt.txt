@@ -1,0 +1,130 @@
+mod do mine
+missão para o piche 
+MISSÃO-1-(criar as armas )
+arma em nível de força 
+nível 1- faca de plástico /dano(  )
+nível 2-punhete de pedra /dano(  )
+nível 3-punhete de ferro /dano(  )
+nível 4-espada de pedra /dano(  )
+nível 5-espada de ferro /dano(  )
+nível 6-punhete de ferro duplo /dano(  )
+nivel 7-espada de ferro dupla /dano(  )
+nível 8-pistola /dano(  )
+nível 9-lança de pedra /dano(  )
+nível 10- lança de ferro /dano(  )
+nível 11- lança de ferro com veneno /dano(  )
+ 
+dano e preços dos armamentos (a confirmar)
+
+missão 2 criar itens de apoio 
+maçã dourada 
+maçã dourada encantada 
+amplificador de dano (várias variáveis de multiplicação)
+amplificador de defesa ( várias variáveis de multiplicação)
+granada
+toten (absurdamente caro)
+
+preços e dano( a decidir)
+ 
+
+DANGEON-1
+
+primeiro andar 
+mod/(  )/dano/(  )/vida( )
+
+segundo andar 
+mod/(  )/dano/(  )/vida( )
+
+terceiro andar
+mod/(  )/dano/(  )/vida( )
+ 
+quarto andar 
+mod/(  )/dano/(  )/vida( )
+
+quinto andar
+mod/(  )/dano/(  )/vida( )
+
+sexto andar 
+mod/(  )/dano/(  )/vida( )
+
+sétimo andar 
+mod/(  )/dano/(  )/vida( )
+
+oitavo andar 
+mod/(  )/dano/(  )/vida( )
+
+nono andar 
+mod/(  )/dano/(  )/vida( )
+
+décimo andar 
+mod/(  )/dano/(  )/vida( )
+
+DANGEON 2 
+
+primeiro andar 
+mod/(  )/dano/(  )/vida( )
+
+segundo andar 
+mod/(  )/dano/(  )/vida( )
+
+terceiro andar
+mod/(  )/dano/(  )/vida( )
+ 
+quarto andar 
+mod/(  )/dano/(  )/vida( )
+
+quinto andar
+mod/(  )/dano/(  )/vida( )
+
+sexto andar 
+mod/(  )/dano/(  )/vida( )
+
+sétimo andar 
+mod/(  )/dano/(  )/vida( )
+
+oitavo andar 
+mod/(  )/dano/(  )/vida( )
+
+nono andar 
+mod/(  )/dano/(  )/vida( )
+
+décimo andar 
+mod/(  )/dano/(  )/vida( )
+
+DANGEON 3
+
+primeiro andar 
+mod/(  )/dano/(  )/vida( )
+
+segundo andar 
+mod/(  )/dano/(  )/vida( )
+
+terceiro andar
+mod/(  )/dano/(  )/vida( )
+ 
+quarto andar 
+mod/(  )/dano/(  )/vida( )
+
+quinto andar
+mod/(  )/dano/(  )/vida( )
+
+sexto andar 
+mod/(  )/dano/(  )/vida( )
+
+sétimo andar 
+mod/(  )/dano/(  )/vida( )
+
+oitavo andar 
+mod/(  )/dano/(  )/vida( )
+
+nono andar 
+mod/(  )/dano/(  )/vida( )
+
+décimo andar 
+mod/(  )/dano/(  )/vida( )
+
+
+IDEIAS GERAIS 
+
+ideia-1
+quando morrer vc perde todos os itens e multiplicadores porém nasce com 2/3 de essências de vd q valiam seus itens
